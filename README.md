@@ -1,3 +1,5 @@
+> **Archived.** This repo has been migrated into the [tallyfor/balance](https://github.com/tallyfor/balance) monorepo at [`components/re-frame-readfile-fx`](https://github.com/tallyfor/balance/tree/main/components/re-frame-readfile-fx). All future development happens there.
+
 [![Clojars Project](https://img.shields.io/clojars/v/jtk-dvlp/re-frame-readfile-fx.svg)](https://clojars.org/jtk-dvlp/re-frame-readfile-fx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jtkDvlp/re-frame-worker-fx/blob/master/LICENSE)
 
